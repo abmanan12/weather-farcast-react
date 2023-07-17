@@ -1,1 +1,19 @@
 @import '~bootstrap/scss/bootstrap.scss';
+
+
+.bg-gradient-hot {
+    background: linear-gradient(to bottom, #ff5722, #ff9800);
+}
+
+.bg-gradient-warm {
+    background: linear-gradient(to bottom, #ffc107, #ffeb3b);
+}
+
+.bg-gradient-cool {
+    background: linear-gradient(to bottom, #2196f3, #03a9f4);
+}
+
+
+.table-responsive::-webkit-scrollbar {
+    overflow: hidden;
+}

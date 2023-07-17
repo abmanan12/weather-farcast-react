@@ -5,12 +5,15 @@ export default function Footer() {
         <>
 
             <div className="pt-4 mt-md-5 pt-md-5 border-top bg-light">
+
                 <div className="container">
                     <div className="row">
+
                         <div className="col-12 col-md">
-                            <img className="mb-2" src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="24" height="19" />
-                            <small className="d-block mb-3 text-muted">© 2017–2021</small>
+                            <img className="mb-4 mb-md-2" src="https://o.remove.bg/downloads/40663328-0134-4a25-b2e7-7238eca75059/weather-channel-logo-png-5-removebg-preview.png" 
+                            alt="network_error" width="65" height="50" />
                         </div>
+
                         <div className="col-6 col-md">
                             <h5>Features</h5>
                             <ul className="list-unstyled text-small">
