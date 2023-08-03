@@ -88,7 +88,6 @@ export default function WeatherForcast() {
 
                 {/* Other City */}
                 <div className="container pt-5">
-                    {/* <h3 className="fw-bold text-center mb-3">Other Cities</h3> */}
 
                     <div className="table-responsive mx-1 mx-sm-2 mx-md-3 mx-lg-4">
                         <table className="table text-center">

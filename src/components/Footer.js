@@ -10,8 +10,8 @@ export default function Footer() {
                     <div className="row">
 
                         <div className="col-12 col-md">
-                            <img className="mb-4 mb-md-2" src="https://o.remove.bg/downloads/40663328-0134-4a25-b2e7-7238eca75059/weather-channel-logo-png-5-removebg-preview.png" 
-                            alt="network_error" width="65" height="50" />
+                            <img className="mb-4 mb-md-2" src="/images/logo.png" 
+                            alt="network_error" width="75" height="50" />
                         </div>
 
                         <div className="col-6 col-md">

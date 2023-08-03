@@ -9,7 +9,7 @@ import WeatherContextProvider from './contexts/WeatherContext';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-light">
       <WeatherContextProvider>
         <Header />
         <WeatherForcast />

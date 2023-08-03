@@ -8,11 +8,11 @@ export default function Header() {
     return (
         <>
 
-            <nav className="navbar navbar-light bg-light py-3">
+            <nav className="navbar navbar-light bg-light py-2 border-bottom">
                 <div className="container">
 
-                    <img className="navbar-brand mb-0" src="https://o.remove.bg/downloads/40663328-0134-4a25-b2e7-7238eca75059/weather-channel-logo-png-5-removebg-preview.png"
-                        alt="network_error" width="60" height="50" />
+                    <img className="navbar-brand mb-0" src="/images/logo.png"
+                        alt="network_error" width="75" height="60" />
 
                     <form className="mt-2 mt-sm-0">
                         <input className="form-control shadow-none me-2" type="search" placeholder="Search City"
